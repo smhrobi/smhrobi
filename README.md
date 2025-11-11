@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smhrobi
 - 👀 I’m interested in High Energy Physics Calculation
-- 🌱 I’m currently a postdoc in INFN
+- 🌱 I’m currently a postdoc in University of Regensburg
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: syedmehe@buffalo.edu
 
